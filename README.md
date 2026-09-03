@@ -13,4 +13,4 @@ pnpm dev
 
 Create a production build with `pnpm build` and preview it locally with `pnpm preview`.
 
-Built with React, TypeScript, HTML, CSS, and Vite.
+Built with React, JavaScript, HTML, CSS, and Vite.
