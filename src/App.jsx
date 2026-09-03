@@ -280,7 +280,7 @@ export default function Home() {
             <span>Ambience</span>
             <i className="sound-bars" aria-hidden="true"><b /><b /><b /></i>
           </Button>
-          <div className="header-meta"><span>A short film</span><b>MMXXVI</b></div>
+          <div className="header-meta"><span>A short film</span><b>2026</b></div>
         </div>
         <Button className="menu-button" variant="ghost" size="icon" onClick={() => setMenuOpen(!menuOpen)} aria-label="Toggle menu">
           {menuOpen ? <X /> : <Menu />}
