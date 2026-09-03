@@ -301,7 +301,7 @@ export default function Home() {
             <Play aria-hidden="true" />
             <span>Watch trailer<small>01:26</small></span>
           </Button>
-          <p className="hero-credit">A film by<br /><b>Your Name</b></p>
+          <p className="hero-credit">A film by<br /><b>SA Studios</b></p>
           <a className="scroll-cue" href="#trailer">Enter <ArrowDown aria-hidden="true" /></a>
         </div>
       </section>
